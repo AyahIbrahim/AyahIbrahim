@@ -1,7 +1,7 @@
-- 👋 My name is Aya!
-- 📊 I hold a B.S. in Information Science & Analytics.
-- 📈 I'm seeking to apply and expand my skillset in the field of data science.
-- 🔢 Mostly proficient in data analysis & manipulation tools such as SQL, Python, and R, in addition to data visualization tools such as Tableau.
+- 👋 Hi, I'm Aya!
+- 🎓 B.S. in Information Science & Analytics from UNC-Greensboro.
+- 💻 Passionate about data science, with skills in SQL, Python, R, and Tableau.
+- 🚀 Exploring and expanding my expertise through various data projects—check them out below!
 
 
 
